@@ -1,0 +1,1 @@
+web: gunicorn wordsmith_project.wsgi
