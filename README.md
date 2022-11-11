@@ -1,3 +1,14 @@
-#WordSmith 
+# WordSmith
 
-This is a website...
+## Introduction
+
+## UX
+
+### User Stories
+### Design
+#### Wireframes
+
+
+## Deployment
+
+## Credits
