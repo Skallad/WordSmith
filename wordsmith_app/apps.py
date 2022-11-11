@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PostInteractConfig(AppConfig):
+class WordsmithAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'post_interact'
+    name = 'wordsmith_app'
